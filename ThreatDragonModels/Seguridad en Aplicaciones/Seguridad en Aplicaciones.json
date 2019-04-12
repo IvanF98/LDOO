@@ -1,16 +1,11 @@
 {
   "summary": {
     "title": "Seguridad en Aplicaciones",
-    "owner": "Ivan"
+    "owner": "Ivan",
+    "description": ""
   },
   "detail": {
     "contributors": [],
-    "diagrams": [
-      {
-        "title": "Modelo de amenza",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
-      }
-    ]
+    "diagrams": []
   }
 }
